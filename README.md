@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janup9967&label=Profile%20views&color=0e75b6&style=flat" alt="janup9967" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janup9967" alt="janup9967" /></a> </p>
-<img align="right" alt="Coding" width="300" height="300" src=""  style="max-width: 100%;">
+<img align="right" alt="Coding" width="300" height="300" src="img.png"  style="max-width: 100%;">
 
 <p align="left"> <a href="https://twitter.com/anupjai79539644" target="blank"><img src="https://img.shields.io/twitter/follow/anupjai79539644?logo=twitter&style=for-the-badge" alt="anupjai79539644" /></a> </p>
 

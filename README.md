@@ -15,21 +15,35 @@
 - ⚡ Fun fact **I love to talk over chat**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<table>
+  <tr>
+    <th><a href="https://twitter.com/anupjai79539644" target="blank"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/twitter-icon-square-logo-108D17D373-seeklogo.com_.png" height="30" width="40"></a></th>
+    <th><a href="https://www.linkedin.com/in/anup-jaiswal-701047220/" target="blank"><img src="https://logotaglines.com/wp-content/uploads/2021/11/LinkedIn-Logo-Tagline-Slogan-founder-owner-480x480.jpg" height="30" width="40" ></a></th>
+    <th><a href="https://www.facebook.com/janup9967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/janup9967" height="30" width="40" /></a></th>
+    <th><a href="https://www.youtube.com/channel/UC3Z3-lZcY7FmHAS5RjsYeGQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc3z3-lzcy7fmhas5rjsyegq" height="30" width="40" /></a> </th>
+    
+  </tr>
+  <tr>
+    <th>Twitter </th>
+    <th>LinkedIn </th>
+    <th>Facebook</th>
+    <th>Youtube</th>
+  </tr>
+</table><br>
+<!--p align="left">
 <a href="https://twitter.com/anupjai79539644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupjai79539644" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anup-jaiswal-701047220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-jaiswal-701047220/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/janup9967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/janup9967" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC3Z3-lZcY7FmHAS5RjsYeGQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc3z3-lzcy7fmhas5rjsyegq" height="30" width="40" /></a>
-<!--a href="https://www.codechef.com/users/janup9967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janup9967" height="30" width="40" /></a-->
-</p>
-
+<a href="https://www.codechef.com/users/janup9967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janup9967" height="30" width="40" /></a>
+</p-->
 <h3 align="left">Languages and Tools:</h3>
 
 ### Languages ⭐ :
 <table>
   <tr>
     <th><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" height="64" width="64"></a></th>
-    <th><a href="https://dart.dev/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" height="64" width="64" ></a></th>
+    <th><a href="https://www.cprogramming.com/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917" height="64" width="64" ></a></th>
   </tr>
   <tr>
     <th>Python</th>

@@ -37,7 +37,8 @@
 <a href="https://www.youtube.com/channel/UC3Z3-lZcY7FmHAS5RjsYeGQ/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc3z3-lzcy7fmhas5rjsyegq" height="30" width="40" /></a>
 <!-- a href="https://www.codechef.com/users/janup9967" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/janup9967" height="30" width="40" /></a-->
 </p>
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools:
 
 ### Languages ⭐ :
 <table>
@@ -58,3 +59,20 @@
 <!--p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janup9967&show_icons=true&locale=en&layout=compact" alt="janup9967" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janup9967&show_icons=true&locale=en" alt="janup9967" /></p-->
+  
+  ### Tools & IDE ⭐ :
+<table>
+  <tr>
+    <th><a href="https://jupyter.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/180px-Jupyter_logo.svg.png" height="64" width="64"></a></th>
+    <th><a href="https://code.visualstudio.com/download" target="_blank"><img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" height="64" width="64"></a></th>
+    <th><a href="https://app.powerbi.com/" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png" height="64" width="64"></a></th>
+    <th><a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png?20221103151432" height="64" width="50"></a></th>
+  </tr>
+  <tr>
+    <th>Jupyter</th>
+    <th>VS Code</th>
+    <th>Power BI</th>
+    <th>Google Colab</th>
+    
+  </tr>
+</table>

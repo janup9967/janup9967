@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I love to talk over chat**
 
-<h3 align="left">Connect with me:</h3>
+## Connect with Me ⭐ :
 <!--table>
   <tr>
     <th><a href="https://twitter.com/anupjai79539644" target="blank"><img src="https://bankimooncentre.org/wp-content/uploads/2020/05/twitter-icon-square-logo-108D17D373-seeklogo.com_.png" height="30" width="40"></a></th>
@@ -29,7 +29,7 @@
     <th>Facebook</th>
     <th>Youtube</th>
   </tr>
-</table--><br>
+</table-->
 <p align="left">
 <a href="https://twitter.com/anupjai79539644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anupjai79539644" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anup-jaiswal-701047220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anup-jaiswal-701047220/" height="30" width="40" /></a>

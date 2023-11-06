@@ -31,7 +31,7 @@
   </tr>
 </table-->
 <p align="left">
-<a href="https://twitter.com/anupjai79539644" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/768px-Twitter-logo.svg.png?20220821125553" alt="anupjai79539644" height="30" width="40" /></a>&nbsp;
+<a href="https://twitter.com/anupjai79539644" target="blank"><img align="center" src="https://static.designboom.com/wp-content/uploads/2023/07/twitter-logo-change-x-elon-musk-designboom-500.jpg" alt="anupjai79539644" height="30" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/anup-jaiswal-701047220/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/108px-LinkedIn_icon.svg.png" alt="https://www.linkedin.com/in/anup-jaiswal-701047220/" height="30" width="40" /></a>&nbsp;
 <a href="https://www.facebook.com/janup9967" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/225px-Facebook_f_logo_%282021%29.svg.png" alt="https://www.facebook.com/janup9967" height="40" width="40" /></a>&nbsp;
 <a href="https://www.youtube.com/channel/UC3Z3-lZcY7FmHAS5RjsYeGQ/featured" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/180px-YouTube_full-color_icon_%282017%29.svg.png" alt="https://youtube.com/channel/uc3z3-lzcy7fmhas5rjsyegq" height="40" width="40" /></a>

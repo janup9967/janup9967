@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/anupjai79539644" target="blank"><img src="https://img.shields.io/twitter/follow/anupjai79539644?logo=twitter&style=for-the-badge" alt="anupjai79539644" /></a> </p>
 
-- 🌱 I’m currently learning **3rd Year B.E. COMPUTER SCIENCE**
+- 🌱 I’m currently learning **Final Year B.E. COMPUTER SCIENCE**
 
 - 📫 How to reach me **anupjaiswal1607@gmail.com**
 

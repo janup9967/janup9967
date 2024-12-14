@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Jaiswal</h1>
-<h3 align="center">A passionate ML/AL enthusiam from India</h3>
+<!--h3 align="center">A passionate ML/AL enthusiam from India</h3-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janup9967&label=Profile%20views&color=0e75b6&style=flat" alt="janup9967" /> </p>
 
